@@ -1,0 +1,35 @@
+body{
+    background: rgba(5, 79, 88, 0.466) ;     
+    margin-left: 40px;  
+    margin-right: 200px;
+}
+
+h1{
+    color:red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family:  Arial, Helvetica, Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+p{
+    font-size: 18px;
+}
+
+img{
+    margin-bottom: 20px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+}
+
+.logo{
+    width: 20px;
+}
